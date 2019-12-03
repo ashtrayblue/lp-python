@@ -1,4 +1,4 @@
-FROM ubuntu:precise
+FROM ubuntu:xenial
 MAINTAINER Murali Allada <murali.allada@rackspace.com>
 
 RUN apt-get -yqq update
